@@ -3,7 +3,7 @@ module.exports = {
     connection:  {
         database: "wm",
         user: "root",
-        password: "gui140404"
+        password: ""
     },
     pool: {
         min: 2,
